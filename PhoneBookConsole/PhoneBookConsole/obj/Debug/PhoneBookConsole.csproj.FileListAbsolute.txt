@@ -1,0 +1,8 @@
+C:\Users\pawar\source\repos\PhoneBookConsole\PhoneBookConsole\bin\Debug\PhoneBookConsole.exe.config
+C:\Users\pawar\source\repos\PhoneBookConsole\PhoneBookConsole\bin\Debug\PhoneBookConsole.exe
+C:\Users\pawar\source\repos\PhoneBookConsole\PhoneBookConsole\bin\Debug\PhoneBookConsole.pdb
+C:\Users\pawar\source\repos\PhoneBookConsole\PhoneBookConsole\obj\Debug\PhoneBookConsole.csproj.AssemblyReference.cache
+C:\Users\pawar\source\repos\PhoneBookConsole\PhoneBookConsole\obj\Debug\PhoneBookConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\pawar\source\repos\PhoneBookConsole\PhoneBookConsole\obj\Debug\PhoneBookConsole.csproj.CoreCompileInputs.cache
+C:\Users\pawar\source\repos\PhoneBookConsole\PhoneBookConsole\obj\Debug\PhoneBookConsole.exe
+C:\Users\pawar\source\repos\PhoneBookConsole\PhoneBookConsole\obj\Debug\PhoneBookConsole.pdb
